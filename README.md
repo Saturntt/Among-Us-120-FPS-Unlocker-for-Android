@@ -1,17 +1,17 @@
-Among Us 120 FPS Unlocker
+#Among Us 120 FPS Unlocker
 
 A Magisk module that unlocks 120 FPS in Among Us.
 
-Requirements
+#Requirements
 
 - Magisk is required.
 - Zygisk must be enabled.
 
-Compatibility
+#Compatibility
 
 This module currently works exclusively with Magisk and enabled Zygisk. It is not compatible with KernelSU or APatch.
 
-Disclaimer
+#Disclaimer
 
 Use at your own risk. I am not responsible for any issues with your account or device.
 
