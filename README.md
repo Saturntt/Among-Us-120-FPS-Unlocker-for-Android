@@ -16,3 +16,5 @@ This module currently works exclusively with Magisk and enabled Zygisk. It is no
 Use at your own risk. I am not responsible for any issues with your account or device.
 
 KernelSU support is planned for a future release.
+### Update - in telegram
+@vibecode_github
