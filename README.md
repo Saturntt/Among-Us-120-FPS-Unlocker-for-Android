@@ -1,2 +1,2 @@
-# Among-Us---120-FPS-Unlocker-for-Android-Magisk-Module
-Requirements for thus module:  - Magisk is required. - Zygisk must be enabled.  Important: This module currently works exclusively with Magisk and enabled Zygisk. It is not compatible with KernelSU or APatch.  KernelSU support is planned for a future release. Use at your own risk. I am not responsible for any issues with your account or device. (!)
+# Among-Us - 120 FPS Unlocker for Android :Magisk-Module
+Requirements for thus module: Magisk is required. Zygisk must be enabled.  Important: This module currently works exclusively with Magisk and enabled Zygisk. It is not compatible with KernelSU or APatch.  KernelSU support is planned for a future release. Use at your own risk. I am not responsible for any issues with your account or device. (!)
